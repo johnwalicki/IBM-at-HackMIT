@@ -53,3 +53,7 @@ Watch the HackWeek replay:
 
 - Ask us in the booth
 - Find us on [Slack](https://hackmit2021.slack.com)
+
+# Find this page
+
+![QR Code](images/hackmit-qrcode.png)
