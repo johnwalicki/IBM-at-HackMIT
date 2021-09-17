@@ -52,7 +52,7 @@ Watch the HackWeek replay:
 # Support
 
 - Ask us in the booth
-- Find us on [Slack](https://hackmit2021.slack.com)
+- Find us on [Slack](https://hackmit2021.slack.com/archives/C02EY9FPREG)
 
 # Find this page
 
